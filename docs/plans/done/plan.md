@@ -77,3 +77,14 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- #1 Define digest contract: https://github.com/pc8i/rig-s01e04/issues/1
+- #2 Implement run-log reader: https://github.com/pc8i/rig-s01e04/issues/2
+- #3 Render digest page: https://github.com/pc8i/rig-s01e04/issues/3
+- #4 Expose digest JSON: https://github.com/pc8i/rig-s01e04/issues/4
+- #5 Link nights from board: https://github.com/pc8i/rig-s01e04/issues/5
+- #6 Add digest route tests: https://github.com/pc8i/rig-s01e04/issues/6
+- #7 Publish review preview: https://github.com/pc8i/rig-s01e04/issues/7
+- #8 Remove marker and archive plan: https://github.com/pc8i/rig-s01e04/issues/8
